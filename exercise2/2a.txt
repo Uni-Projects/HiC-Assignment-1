@@ -1,0 +1,2 @@
+tr -d "\n"< genome.txt.1 | grep -o GATTACA
+result: 4

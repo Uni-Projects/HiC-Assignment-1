@@ -1,0 +1,2 @@
+gcc -o exercise3e exercise3d.c          #compiles the program and creates output file.
+./exercise3e | wc -l >> exercise3c.txt  #runs the program, counts how many new lines (numbers) and put the result in the txt file

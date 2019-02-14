@@ -1,0 +1,4 @@
+List of commands:
+cd
+mkdir
+ls -lh
